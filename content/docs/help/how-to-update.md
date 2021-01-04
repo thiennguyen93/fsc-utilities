@@ -15,6 +15,8 @@ toc: true
 
 {{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." >}}
 
-## Update automatically
+## Install updates automatically
 
-By default - the auto-update feature is enabled. The application automatically checks for and install new updates (if new version available).
+By default - the auto-update feature is enabled. The application automatically checks for and install new updates (if available) when it starts.
+
+## Notify user to install new version
