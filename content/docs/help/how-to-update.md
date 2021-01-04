@@ -13,10 +13,12 @@ weight: 610
 toc: true
 ---
 
-{{< alert icon="💡" text="Learn more about <a href=\"https://docs.npmjs.com/about-semantic-versioning\">semantic versioning</a> and <a href=\"https://docs.npmjs.com/cli/v6/using-npm/semver#advanced-range-syntax\">advanced range syntax</a>." >}}
+{{< alert icon="💡" text="Please make sure that your internet connection works in order to check for update." >}}
 
-## Install updates automatically
+## Install updates automatically (recommended)
 
 By default - the auto-update feature is enabled. The application automatically checks for and install new updates (if available) when it starts.
 
 ## Notify user to install new version
+
+You will be notified if there is a new version available. 
