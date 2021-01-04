@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://fsc-utilities-plugin.netlify.app/"
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
