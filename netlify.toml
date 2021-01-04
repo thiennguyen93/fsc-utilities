@@ -1,17 +1,30 @@
 [build]
-  publish = "public"
-  functions = "functions"
+publish = "public"
+command = "hugo --gc --minify"
 
-[build.environment]
-  HUGO_VERSION = "0.78.0"
-  NODE_VERSION = "15.0.1"
-  NPM_VERSION = "7.0.5"
+[context.production.environment]
+HUGO_VERSION = "0.80.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
 
-[context.production]
-  command = "hugo -b $URL --gc --minify && npm run build:functions"
+[context.split1]
+command = "hugo --gc --minify --enableGitInfo"
+
+[context.split1.environment]
+HUGO_VERSION = "0.80.0"
+HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
+command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+
+[context.deploy-preview.environment]
+HUGO_VERSION = "0.80.0"
 
 [context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL --gc --minify"
+command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+
+[context.branch-deploy.environment]
+HUGO_VERSION = "0.80.0"
+
+[context.next.environment]
+HUGO_ENABLEGITINFO = "true"
