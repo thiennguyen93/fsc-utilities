@@ -1,9 +1,9 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Doks"
+title = "FSC Utilities Plugin"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
+titleAddition = "An input assistance for Vertafore FSC Rater CA"
 description = "Doks is a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
 
 ## Open Graph + Twitter Cards
