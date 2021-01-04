@@ -15,7 +15,7 @@ toc: true
 
 ## Requirements
 
-{{< alert icon="👉" text="Node.js is needed to install npm packages and run commands." >}}
+{{< alert icon="👉" text="Vertafore FSC Rater™ should be pre-installed" >}}
 
 Make sure all dependencies have been installed:
 
