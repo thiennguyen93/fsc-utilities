@@ -37,11 +37,8 @@ miles and annual mileage
 
 ### Create a new profile
 
-{{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
+To create a new profile, simply click the New button on the main tab. Then, enter your desired profile name and click OK.
 
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site
-```
 
 ### Change directories
 
