@@ -34,8 +34,6 @@ You can input mileage for each driver or get the number directly from FSC Rater.
 - Repeat the previous step to import mileages for other drivers.
 
 {{< alert icon="ℹ" text="<strong>Important note</strong>: The mileage will be compared to the <strong>MIN</strong> value, whichever is higher is imported. In case you want to skip the comparison and get the exact mileages, hold <em>Control + Shift</em> key instead of <em>Shift<em> key." >}}
-![create-new-profile]({{< ref "/" >}}images/input-milage-directly.png =250x)
-<img src="{{< ref "/" >}}images/input-milage-directly.png" style=\"width:10%;\">
 
 ### Install npm packages
 
