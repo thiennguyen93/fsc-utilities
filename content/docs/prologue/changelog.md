@@ -115,7 +115,7 @@ Missing released date
    - Shift + Click to copy mileage from FSC
 
 ## Version 5.2.4
-Missing released date
+Missing release date
    - Add live update
 
 ## Version 5.2.3
