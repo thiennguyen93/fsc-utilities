@@ -44,6 +44,8 @@ toc: true
 | Load Default Drivers' mileages | Ctrl+D |
 | Save current Drivers' mileages as default | Ctrl+Shift+S |
 
+###
+
 **Version 6.2.7** (Mar-06-2020)
    - Replaced context menu with icon buttons;
    - Fixed minor bugs
