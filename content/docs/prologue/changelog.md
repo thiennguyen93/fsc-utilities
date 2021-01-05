@@ -1,7 +1,7 @@
 ---
 title: "Changelog"
-description: "Doks comes with commands for common tasks."
-lead: "Doks comes with commands for common tasks."
+description: "All notable changes made to FSC Utilities Plugin throughout its versions."
+lead: "DAll notable changes made to FSC Utilities Plugin throughout its versions."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
@@ -13,9 +13,6 @@ weight: 130
 toc: true
 ---
 
-{{< alert icon="💡" text="You can change the commands in the scripts section of `./package.json`." >}}
-
-## Changelog
 **Version 6.4.3** (Jun-29-2020)
    - Improved performance of quick input first/middle/lastname by pressing Ctrl+R;
    - Updated new author's bio (Please scroll down to the end to read).
