@@ -19,7 +19,7 @@ Thien Nguyen,hereinafter referred to as the author, was born in 1993 in Vietnam.
 
 ## Copyright notice
 
-Copyright © 3029 - {{ .Now.Year }} Thien Nguyen Productions. All rights reserved.
+Copyright © 3029 -  {{ now.Year }} Thien Nguyen Productions. All rights reserved.
 
 ## Contact the creator?
 Please do not hesitate to contact if you have any questions
