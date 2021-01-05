@@ -24,6 +24,10 @@ Minimum system requirements:
 - 1 GB available hard disk space.
 - Network card
 
+## Installation
+
+{{< alert icon="👉" text="FSC Utilities Plugin is a stand-alone application and can be run without the need for installation procedure" >}}
+
 ## Start a new mileage profile
 
 A mileage profile (or profile in short) is used to store a set of mileages and the application do not have the limitation on the number of profiles that can be created. 
