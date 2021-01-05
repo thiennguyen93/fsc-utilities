@@ -23,8 +23,8 @@ toc: true
 Minimum system requirements:
 
 - 1 gigahertz (GHz) or faster 32-bit or 64-bit processor.
-- 2 gigabyte (GB) RAM (32-bit) or 4 GB RAM (64-bit).
-- 1 GB available hard disk space.
+- 1 gigabyte (GB) RAM.
+- 10 MB available hard disk space.
 - Network card
 
 ## Installation
