@@ -43,7 +43,7 @@ toc: true
 | Clear Drivers' mileages | Ctrl+X |
 | Load Default Drivers' mileages | Ctrl+D |
 | Save current Drivers' mileages as default | Ctrl+Shift+S |
-  
+\s\s
 
 **Version 6.2.7** (Mar-06-2020)
    - Replaced context menu with icon buttons;
