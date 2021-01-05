@@ -15,12 +15,14 @@ toc: true
 
 ## Requirements
 
-{{< alert icon="👉" text="Vertafore FSC Rater™ should be pre-installed" >}}
+{{< alert icon="👉" text="Vertafore FSC Rater™ is required" >}}
 
-Make sure all dependencies have been installed:
+Minimum system requirements:
 
-- [Hugo](https://gohugo.io/getting-started/installing/) >= 0.75.0/extended
-- [Node.js](https://nodejs.org/) >= 14.15.0
+- 1 gigahertz (GHz) or faster 32-bit or 64-bit processor.
+- 2 gigabyte (GB) RAM (32-bit) or 4 GB RAM (64-bit).
+- 1 GB available hard disk space.
+- Network card
 
 ## Start a new Doks project
 
