@@ -33,7 +33,7 @@ You can input mileage for each driver or get the number directly from FSC Rater.
 - Hold *Shift* key and click on a driver to import one way miles and annual mileage of the selected driver.
 - Repeat the previous step to import mileages for other drivers.
 
-{{< alert icon="ℹ" text="The mileage will be compared to the MIN value, whichever is higher is imported. In case you want to skip the comparison and get the exact mileages, hold *Control + Shift* key instead of *Shift* key." >}}
+{{< alert icon="ℹ" text="**Important note:**: The mileage will be compared to the MIN value, whichever is higher is imported. In case you want to skip the comparison and get the exact mileages, hold *Control + Shift* key instead of *Shift* key." >}}
 
 ### Install npm packages
 
