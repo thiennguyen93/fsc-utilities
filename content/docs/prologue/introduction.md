@@ -12,3 +12,12 @@ menu:
 weight: 100
 toc: true
 ---
+
+## Features
+- One click to login FSC Rater.
+- Vehicle/Driver assignment.
+- One clicks to transfer mileage value to FSC Rater and vice versa.
+- Quick Input assistance for full names, phone#, license state...
+- Mileage stored in multiples profiles for different uses
+
+## Screenshot
