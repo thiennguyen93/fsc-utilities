@@ -30,8 +30,9 @@ Minimum system requirements:
 
 ## Start a new mileage profile
 
-A mileage profile (or profile in short) is used to store a set of mileages and the application do not have the limitation on the number of profiles that can be created. 
-Each profile contains a set of mileages (06 drivers, extra 02 presets and a minimum mileage). Each one couples together a pair of values, which is one-way 
+What is a mileage profile?
+- A mileage profile (or profile in short) is used to store a set of mileages and the application do not have the limitation on the number of profiles that can be created. 
+- Each profile contains a set of mileages (06 drivers, extra 02 presets and a minimum mileage). Each one couples together a pair of values, which is one-way 
 miles and annual mileage
 
 ### Create a new profile
