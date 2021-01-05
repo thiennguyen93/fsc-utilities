@@ -37,24 +37,10 @@ You can input mileage for each driver or get the number directly from FSC Rater.
 
 ![input-milage-directly]({{< ref "/" >}}images/input-milage-directly.png)
 
-### Install npm packages
+### Transfer mileage from application to FSC Rater
 
-{{< btn-copy text="npm install" >}}
-
-```bash
-npm install
-```
-
-### Start development server
-
-{{< btn-copy text="npm run start" >}}
-
-```bash
-npm run start
-```
-
-Doks will start the Hugo development webserver accessible by default at `http://localhost:1313`. Saved changes will live reload in the browser.
-
-## Other commands
-
-Doks comes with commands for common tasks. [Commands →]({{< ref "changelog" >}})
+The application is able to link and identify which driver is asigned to each vehicle in order to match and transfer the correct mileages of that driver. To do this, please follow the simple steps
+- Select the profile that you want to use.
+- Hold *Ctrl* key and Click on the vehicle → The One way miles and Annual mileage of the assigned driver is transfered to FSC Rater.
+- Repeat the previous step to fill mileage for other drivers.
+{{< alert icon="👉" text="If you change the driver/vehicle assignment in FSC Rater, repeat the steps above to update the new mileages" >}}
