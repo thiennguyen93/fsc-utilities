@@ -25,13 +25,15 @@ miles and annual mileage
 To create a new profile, simply click the New button on the main tab. Then, enter your desired profile name and click OK.
 ![create-new-profile]({{< ref "/" >}}images/create-new-profile.png)
 
-### Change directories
+### Input driver's mileage to current profile
 
-{{< btn-copy text="cd my-doks-site" >}}
+You can input mileage for each driver or get the number directly from FSC Rater. To import from FSC Rater, please follow these steps
+- Open your quote in FSC Rater, then change to **Vehicle View**.
+- Make sure that you have entered the corect One Way Miles and Annual Milage for each driver.
+- Hold *Shift* key and click on a driver to import one way miles and annual mileage of the selected driver.
+- Repeat the previous step to import mileages for other drivers.
 
-```bash
-cd my-doks-site
-```
+{{< alert icon="ℹ" text="The mileage will be compared to the MIN value, whichever is higher is imported. In case you want to skip the comparison and get the exact mileages, hold *Control + Shift* key instead of *Shift* key." >}}
 
 ### Install npm packages
 
