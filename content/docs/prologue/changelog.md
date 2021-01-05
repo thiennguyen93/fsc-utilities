@@ -1,7 +1,7 @@
 ---
 title: "Changelog"
 description: "All notable changes made to FSC Utilities Plugin throughout its versions."
-lead: "DAll notable changes made to FSC Utilities Plugin throughout its versions."
+lead: "All notable changes made to FSC Utilities Plugin throughout its versions."
 date: 2020-10-13T15:21:01+02:00
 lastmod: 2020-10-13T15:21:01+02:00
 draft: false
