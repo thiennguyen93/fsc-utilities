@@ -16,6 +16,21 @@ toc: true
 {{< alert icon="👉" text="Version 6.4.3 (latest)" >}}
 [Click here to download →](https://getdoks.org/tutorial/introduction/)
 
+## Requirements
+
+{{< alert icon="👉" text="Vertafore FSC Rater™ is required." >}}
+
+Minimum system requirements:
+
+- 1 gigahertz (GHz) or faster 32-bit or 64-bit processor.
+- 2 gigabyte (GB) RAM (32-bit) or 4 GB RAM (64-bit).
+- 1 GB available hard disk space.
+- Network card
+
+## Installation
+
+{{< alert icon="👉" text="FSC Utilities Plugin is a stand-alone application and can be run without the need for installation procedure" >}}
+
 ## Changelog
 **Version 6.4.3** (Jun-29-2020)
    - Improved performance of quick input first/middle/lastname by pressing Ctrl+R;
