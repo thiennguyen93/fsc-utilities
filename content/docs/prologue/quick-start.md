@@ -38,8 +38,7 @@ miles and annual mileage
 ### Create a new profile
 
 To create a new profile, simply click the New button on the main tab. Then, enter your desired profile name and click OK.
-{{< ref "document" >}}
-[test]({{ .Site.BaseURL }}/images/create-new-profile.png)
+[About]({{< ref "/page/about" >}} "About Us")
 
 ### Change directories
 
