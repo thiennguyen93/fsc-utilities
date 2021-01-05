@@ -13,7 +13,8 @@ weight: 105
 toc: true
 ---
 
-{{< alert icon="👉" text="Version 6.4.3 (latest)" >}}[Click here to download →](https://getdoks.org/tutorial/introduction/)
+{{< alert icon="👉" text="Version 6.4.3 (latest)" >}}
+[Click here to download →](https://getdoks.org/tutorial/introduction/)
 
 ## Changelog
 
