@@ -17,6 +17,6 @@ toc: true
 [Click here to download →](https://getdoks.org/tutorial/introduction/)
 
 ## Changelog
-
-There are two main ways to get started with Doks:
+### Version 6.4.3
+- There are two main ways to get started with Doks:
 
