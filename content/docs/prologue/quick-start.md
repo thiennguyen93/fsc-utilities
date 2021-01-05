@@ -1,7 +1,7 @@
 ---
 title: "Quick Start"
 description: "One page summary of how to start a new Doks project."
-lead: "One page summary of how to start a new Doks project."
+lead: "This instruction manual will help you get started with the basic features that the application has to offer."
 date: 2020-11-16T13:59:39+01:00
 lastmod: 2020-11-16T13:59:39+01:00
 draft: false
@@ -15,7 +15,7 @@ toc: true
 
 ## Requirements
 
-{{< alert icon="👉" text="Vertafore FSC Rater™ is required" >}}
+{{< alert icon="👉" text="Vertafore FSC Rater™ is required." >}}
 
 Minimum system requirements:
 
@@ -24,11 +24,13 @@ Minimum system requirements:
 - 1 GB available hard disk space.
 - Network card
 
-## Start a new Doks project
+## Start a new mileage profile
 
-Create a new site, change directories, install npm packages, and start development server.
+A mileage profile (or profile in short) is used to store a set of mileages and the application do not have the limitation on the number of profiles that can be created. 
+Each profile contains a set of mileages (06 drivers, extra 02 presets and a minimum mileage). Each one couples together a pair of values, which is one-way 
+miles and annual mileage
 
-### Create a new site
+### Create a new profile
 
 {{< btn-copy text="git clone https://github.com/h-enk/doks.git my-doks-site" >}}
 
