@@ -29,17 +29,21 @@ Version 6.3.4 (Mar-12-2020)
    - Fixed minor bugs.
 
 Version 6.3.2 (Mar-09-2020)
-| Syntax | Description |
+| Command | Keyboard shortcuts |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text | 
+| Open Profile Manager | Ctrl+O |
+| New profile | Ctrl+N |
+| Save profile | Ctrl+S |
+| Rename profile | Ctrl+R |
+| Load selected profile | Ctrl+G |
+| Load selected profile | Ctrl+G |
    - Added shortcut key for all buttons:
    >>Profiles
-   [Ctrl+O] Open Profile Manager
-   [Ctrl+N] New profile
-   [Ctrl+S] Save profile
-   [Ctrl+R] Rename profile
-   [Ctrl+G] Load selected profile
+   [] Open Profile Manager
+   [ 
+   [] 
+   [] 
+   ] Load selected profile
 
    >>Drivers' Mileages
    [Ctrl+C] Copy
