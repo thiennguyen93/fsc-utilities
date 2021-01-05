@@ -29,7 +29,9 @@ toc: true
    - Fixed minor bugs.
 
 **Version 6.3.2** (Mar-09-2020)
-Profile
+
+👉 Profile
+
 | Command | Keyboard shortcuts |
 | ----------- | ----------- |
 | Open Profile Manager | Ctrl+O |
@@ -38,7 +40,8 @@ Profile
 | Rename profile | Ctrl+R |
 | Load selected profile | Ctrl+G |
 
-Drivers' Mileages
+👉Drivers' Mileages
+
 | Command | Keyboard shortcuts |
 | ----------- | ----------- |
 | Copy | Ctrl+C |
