@@ -29,6 +29,10 @@ Version 6.3.4 (Mar-12-2020)
    - Fixed minor bugs.
 
 Version 6.3.2 (Mar-09-2020)
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
    - Added shortcut key for all buttons:
    >>Profiles
    [Ctrl+O] Open Profile Manager
