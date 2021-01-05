@@ -30,8 +30,6 @@ toc: true
 
 **Version 6.3.2** (Mar-09-2020)
 
-👉 Profile
-
 | Command | Keyboard shortcuts |
 | ----------- | ----------- |
 | Open Profile Manager | Ctrl+O |
@@ -39,11 +37,6 @@ toc: true
 | Save profile | Ctrl+S |
 | Rename profile | Ctrl+R |
 | Load selected profile | Ctrl+G |
-
-👉Drivers' Mileages
-
-| Command | Keyboard shortcuts |
-| ----------- | ----------- |
 | Copy | Ctrl+C |
 | Paste & Convert | Ctrl+V |
 | Paste Only | Ctrl+Shift+V |
