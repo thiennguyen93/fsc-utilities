@@ -25,9 +25,8 @@ Minimum system requirements:
 - 1 gigahertz (GHz) or faster 32-bit or 64-bit processor.
 - 1 gigabyte (GB) RAM.
 - 10 MB available hard disk space.
-- Network card
+- Network card.
 
 ## Installation
-
-{{< alert icon="👉" text="FSC Utilities Plugin is a stand-alone application and can be run without the need for installation procedure" >}}
+FSC Utilities Plugin is a stand-alone application and can be run without the need for installation procedure.
 
