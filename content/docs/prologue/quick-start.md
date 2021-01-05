@@ -13,21 +13,6 @@ weight: 110
 toc: true
 ---
 
-## Requirements
-
-{{< alert icon="👉" text="Vertafore FSC Rater™ is required." >}}
-
-Minimum system requirements:
-
-- 1 gigahertz (GHz) or faster 32-bit or 64-bit processor.
-- 2 gigabyte (GB) RAM (32-bit) or 4 GB RAM (64-bit).
-- 1 GB available hard disk space.
-- Network card
-
-## Installation
-
-{{< alert icon="👉" text="FSC Utilities Plugin is a stand-alone application and can be run without the need for installation procedure" >}}
-
 ## Start a new mileage profile
 
 What is a mileage profile?
