@@ -1,9 +1,3 @@
-{{ $image := $.Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
+{{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) }}
 {{ $lqip := $image.Resize $.Site.Params.lqipWidth -}}
-<p>
-  abcxyz 
-  {{ $image.Permalink }}
-  width: {{ $image.Width }}
-  heigh: {{ $image.Height }}
-  <br />
-</p>
+<img class="img-simple img-fluid lazyload blur-up" src="{{ $lqip.Permalink }}" data-src="{{ $image.Permalink }}" width="{{ $image.Width }}" height="{{ $image.Height }}" {{ with .Get "alt" }}alt="{{.}}"{{ end }}>
