@@ -43,6 +43,13 @@
   padding: 1.5rem 0 0 0;
 }
 
+/* Thien Nguyen Modified */
+.docs-links li a {
+    padding-left: 10px;
+    border-left: $white 5px solid;
+}
+/*--------------------*/
+
 @include media-breakpoint-up(lg) {
   .docs-links h3,
   .page-links h3 {
@@ -102,13 +109,6 @@ a.docs-link {
   font-weight: normal;
 }
 
-/* Thien Nguyen Modified */
-.docs-links li a {
-    padding-left: 10px;
-    border-left: $body-color 5px solid;
-}
-
-/*--------------------*/
 
 .docs-links h3.sidebar-link a,
 .page-links h3.sidebar-link a {
