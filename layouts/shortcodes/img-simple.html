@@ -1,6 +1,6 @@
 {{ $image := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
 <p>
   abcxyz 
-  {{ $image }}
+  {{ $image.RelPermalink }}
   <br />
 </p>
