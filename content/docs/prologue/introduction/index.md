@@ -19,6 +19,7 @@ toc: true
 - One clicks to transfer mileage value to FSC Rater and vice versa.
 - Quick Input assistance for full names, phone#, license state...
 - Mileage stored in multiples profiles for different uses
+- And more...
 
 ## Screenshot
 {{< img src="images/screenshot-002.png" alt="Rectangle" caption="<em>Main window</em>" class="border-0" >}}
