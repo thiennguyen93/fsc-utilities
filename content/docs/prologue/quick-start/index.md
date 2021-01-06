@@ -23,7 +23,7 @@ miles and annual mileage
 ### Create a new profile
 
 To create a new profile, simply click the New button on the main tab. Then, enter your desired profile name and click OK.
-![create-new-profile]({{< ref "/" >}}images/create-new-profile.png)
+
 {{< img src="images/create-new-profile.png" alt="create-new-profile.png" caption="<em>You can create unlimited number of profiles</em>" class="border-0" >}}
 
 ### Input driver's mileage to current profile
