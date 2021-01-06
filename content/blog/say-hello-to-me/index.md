@@ -9,6 +9,3 @@ weight: 50
 images: ["say-hello-to-doks.png"]
 contributors: ["Henk Verlinde"]
 ---
-Hey there.
-My name is Thien Nguyen (Nguyễn Ngọc Phước Thiện).
-I was born on May 19 1993.
