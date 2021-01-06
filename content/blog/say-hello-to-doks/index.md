@@ -1,7 +1,7 @@
 ---
 title: "Say hello to me 👋"
 description: "Author's greeting"
-lead: "Introducing Doks, a Hugo theme helping you build modern documentation websites that are secure, fast, and SEO-ready — by default."
+lead: "Sometimes I really do not know who I am or for what I live, the life is still going with full of ups and downs and I just do what I want"
 date: 2020-11-04T09:19:42+01:00
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
