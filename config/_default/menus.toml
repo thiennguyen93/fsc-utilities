@@ -21,7 +21,7 @@
   weight = 20
   
 [[main]]
-  name = "Printable version"
+  name = "Print"
   url = "http://www.thiennguyenpro.com/products/fscup/faq/"
   weight = 30
 
