@@ -7,7 +7,7 @@ titleAddition = "An input assistance for Vertafore FSC Rater CA"
 description = "FSC Utilities Plugin is an input assistance software used together with FSC Rater."
 
 ## Open Graph + Twitter Cards
-images = ["doks.png"]
+images = ["images/main-features.png"]
 twitterSite = "thiennguyenpro"
 twitterCreator = "thiennguyenpro"
 facebookAuthor = "thiennguyenpro"
