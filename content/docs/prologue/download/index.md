@@ -14,7 +14,7 @@ toc: true
 ---
 ## Get FSC Utilities Plugin
 {{< alert icon="👉" text="Version 6.4.3 (latest)" >}}
-[Click here to download →](https://getdoks.org/tutorial/introduction/)
+[Click here to download →](https://drive.google.com/uc?id=1cflyHoi7Qm7q59scytCz_lmwOKqTLwLF&export=download)
 
 ## Requirements
 
