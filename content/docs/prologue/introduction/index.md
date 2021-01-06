@@ -24,4 +24,5 @@ toc: true
 {{< img src="images/screenshot-002.png" alt="Rectangle" caption="<em>Main window</em>" class="border-0" >}}
 {{< img src="images/screenshot-001.png" alt="Rectangle" caption="<em>GUI elements: Main Tab</em>" class="border-0" >}}
 {{< img src="images/screenshot-003.png" alt="Rectangle" caption="<em>Input assistance configurations</em>" class="border-0" >}}
+{{< img src="images/screenshot-005.png" alt="Rectangle" caption="<em>The mileage floating window is useful for user to keep track of the mileage</em>" class="border-0" >}}
 {{< img src="images/screenshot-004.png" alt="Rectangle" caption="<em>The application places an icon in your system tray for quick access</em>" class="border-0" >}}
