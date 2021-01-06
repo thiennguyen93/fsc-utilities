@@ -21,4 +21,5 @@ toc: true
 - Mileage stored in multiples profiles for different uses
 
 ## Screenshot
+{{< img src="images/screenshot-002.png" alt="Rectangle" caption="<em>Main window</em>" class="border-0" >}}
 {{< img src="images/screenshot-001.png" alt="Rectangle" caption="<em>GUI elements: Main Tab</em>" class="border-0" >}}
