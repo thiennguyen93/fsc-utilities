@@ -19,6 +19,11 @@
   name = "Blog"
   url = "/blog/"
   weight = 20
+  
+[[main]]
+  name = "Printable version"
+  url = "http://www.thiennguyenpro.com/products/fscup/faq/"
+  weight = 30
 
 # [[social]]
 #   name = "Twitter"
