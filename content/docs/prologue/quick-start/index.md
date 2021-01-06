@@ -35,7 +35,7 @@ You can input mileage for each driver or get the number directly from FSC Rater.
 - Repeat the previous step to import mileages for other drivers.
 
 {{< alert icon="ℹ" text="<strong>Important note</strong>: The mileage will be compared to the <strong>MIN</strong> value, whichever is higher is imported. In case you want to skip the comparison and get the exact mileages, hold <em>Control + Shift</em> key instead of <em>Shift<em> key." >}}
-input_mileage_directly.png
+  
 {{< img src="images/input_mileage_directly.png" alt="input_mileage_directly.png" caption="<em>One click to import mileage from FSC Rater to application</em>" class="border-0" >}}
   
 ### Transfer mileage from application to FSC Rater
