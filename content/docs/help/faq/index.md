@@ -13,36 +13,22 @@ weight: 630
 toc: true
 ---
 
-## Hyas?
+## How to open help?
+Press F1 for help or click Help button (?) on the main window.
 
-Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
+## Keyboard shortcuts to work with profile?
 
-## Footer notice?
+- Open profile manager: `Ctrl` + `O`
+- Create new profile: `Ctrl` + `N`
+- Save current profile: `Ctrl` + `S`
+- Rename current profile: `Ctrl` + `R`
+- Load selected profile: `Ctrl` + `R`
+- Save current mileage profile as default mileage: `Ctrl` + `Shift` + `S`
+- Load default mileage: `Ctrl` + `D`
+- Clear all drivers' mileage: `Ctrl` + `X`
+- Copy current mileage to clipboard profile: `Ctrl` + `C`
+- Paste & convert mileage from clipboard profile to current one: `Ctrl` + `V`
+- Paste mileage only: `Ctrl` + `Shift` + `V`
 
-Please keep it in place.
 
-## Keyboard shortcuts for search?
 
-- focus: `/`
-- select: `↓` and `↑`
-- open: `Enter`
-- close: `Esc`
-
-## Other documentation?
-
-- [Netlify](https://docs.netlify.com/)
-- [Hugo](https://gohugo.io/documentation/)
-
-## Can I get support?
-
-Create a topic:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
-
-## Contact the creator?
-
-Send `h-enk` a message:
-
-- [Netlify Community](https://community.netlify.com/)
-- [Hugo Forums](https://discourse.gohugo.io/)
