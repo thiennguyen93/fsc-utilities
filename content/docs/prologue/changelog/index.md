@@ -16,7 +16,7 @@ toc: true
 ## Version 6.4.3
 Jun-29-2020
    - Improved performance of quick input first/middle/lastname by pressing Ctrl+R;
-   - Updated new author's bio (Please scroll down to the end to read).
+   - Updated new author's bio.
 
 ## Version 6.3.9
 Mar-14-2020
