@@ -9,6 +9,13 @@
   weight = 20
   identifier = "tutorials"
   url = "/docs/tutorials/"
+ 
+[[docs]]
+  parent = "tutorials"
+  name = "Test child"
+  weight = 20
+  identifier = "tutorials"
+  url = "/docs/tutorials/"
 
 [[docs]]
   name = "Help"
