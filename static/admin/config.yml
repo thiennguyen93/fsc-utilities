@@ -1,5 +1,5 @@
 backend:
-  name: fsc-utilities-plugin-admin
+  name: fsc-utilities
 
 site_url: https://fsc-utilities-plugin.netlify.app/
 
