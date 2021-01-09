@@ -1,6 +1,6 @@
 ---
-title: "Work with Profile Manager"
-description: "FSC Utilities is completely free of charge"
+title: "User interface"
+description: "Introduction to application user interface"
 lead: "FSC Utilities is completely free of charge"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
