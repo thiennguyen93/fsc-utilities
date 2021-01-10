@@ -134,3 +134,6 @@ Missing released date
 ## Version 4.1.1
 Missing released date
    - Remove hotkey Ctrl+numpad to inputing mileage, from now only use F1-F6 to input mileage
+   
+## Version prior to 4.1.1
+Changelog is not recorded.
