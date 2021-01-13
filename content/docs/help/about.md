@@ -20,4 +20,4 @@ Thien Nguyen,hereinafter referred to as the author, was born in 1993 in Vietnam.
 Copyright © 2019 -  2021 Thien Nguyen Productions. All rights reserved.
 
 ## Contact the creator?
-If you have any questions about this new update or have technical queries, please email info@thiennguyenpro.com.com
+If you have any questions about this new update or have technical queries, please email info@thiennguyenpro.com
