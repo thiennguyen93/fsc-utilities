@@ -13,6 +13,11 @@ weight: 115
 toc: true
 ---
 
+## Version 6.4.4
+Sep-12-2021
+   - Added news headlines in the mileage window;
+   - Update author's bio;
+
 ## Version 6.4.3
 Jun-29-2020
    - Improved performance of quick input first/middle/lastname by pressing Ctrl+R;
